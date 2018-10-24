@@ -6,10 +6,18 @@
 
 }
 
-body {
-    background-color: #F0ECEE;
+
+body{
+    background-image:url('bulldog.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
 }
 
 
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 @media screen and (min-width: 768px) 
